@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1459070098 source:c:\users\elvircrn\documents\codes\tp zadaca 2\prvi\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<exception>
+	<cstdio>
+	<stdexcept>
+	<complex>
+	<climits>
+	<string>
+	<sstream>
+	<cctype>
+

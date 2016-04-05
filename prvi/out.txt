@@ -1,0 +1,21 @@
+Robot je trenutno aktivan, nalazi se na poziciji (0,0) i gleda na sjever.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (0,0) i gleda na istok.
+Unesi komandu: Komanda trazi parametar koji nije naveden!
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (5,0) i gleda na istok.
+Unesi komandu: Robot je trenutno neaktivan, nalazi se na poziciji (5,0) i gleda na istok.
+Unesi komandu: Robot je trenutno neaktivan, nalazi se na poziciji (5,0) i gleda na istok.
+Unesi komandu: Robot je trenutno neaktivan, nalazi se na poziciji (5,0) i gleda na istok.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (5,0) i gleda na istok.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (5,0) i gleda na jug.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (5,-4) i gleda na jug.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (5,-4) i gleda na zapad.
+Unesi komandu: Nerazumljiva komanda!
+Unesi komandu: Parametar komande nije ispravan!
+Unesi komandu: Parametar komande nije ispravan!
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (5,-4) i gleda na zapad.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (6,-4) i gleda na zapad.
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (3,-4) i gleda na zapad.
+Unesi komandu: Zadan je suvisan parametar nakon komande!
+Unesi komandu: Robot je trenutno aktivan, nalazi se na poziciji (3,-4) i gleda na jug.
+Unesi komandu: Zadan je suvisan parametar nakon komande!
+Unesi komandu: Dovidjenja!

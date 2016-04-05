@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1459792905 source:c:\users\elvircrn\documents\codes\zadaca 5\cetvrti\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<exception>
+	<cstdio>
+	<stdexcept>
+	<complex>
+	<climits>
+	<string>
+	<sstream>
+	<cctype>
+	<sstream>
+	<algorithm>
+	<iomanip>
+

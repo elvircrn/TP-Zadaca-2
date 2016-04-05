@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1459796387 source:c:\users\elvircrn\documents\codes\tp zadaca 2\drugi\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<vector>
+	<string>
+	<cstring>
+	<cmath>
+	<cctype>
+	<utility>
+	<type_traits>
+	<stdexcept>
+

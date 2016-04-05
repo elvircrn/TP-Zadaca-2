@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459378233 source:c:\users\elvircrn\documents\codes\zadaca 5\treci\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<vector>
+	<string>
+	<cstring>
+	<cmath>
+	<cctype>
+	<utility>
+	<type_traits>
+	<stdexcept>
+	<iomanip>
+
